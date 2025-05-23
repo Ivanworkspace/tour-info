@@ -11,7 +11,7 @@ const QRSection: React.FC = () => {
         const QRCodeStyling = (await import('qr-code-styling')).default;
         
         if (qrRef.current) {
-          const whatsappUrl = 'https://wa.me/+393XXXXXXXXX';
+          const whatsappUrl = 'https://wa.me/393791408773';
           
           const qrCode = new QRCodeStyling({
             width: 240,
@@ -69,7 +69,7 @@ const QRSection: React.FC = () => {
               Scansiona il codice QR con il tuo smartphone per iniziare subito una conversazione con noi su WhatsApp.
             </p>
             <a 
-              href="https://wa.me/+393XXXXXXXXX" 
+              href="https://wa.me/393791408773" 
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-flex items-center bg-green-600 text-white px-6 py-3 rounded-md hover:bg-green-700 transition-colors"

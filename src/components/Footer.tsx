@@ -15,7 +15,7 @@ const Footer: React.FC = () => {
             </p>
             <div className="mt-6 flex space-x-4">
               <a
-                href="https://wa.me/+393XXXXXXXXX"
+                href="https://wa.me/393791408773"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-green-600 p-2 rounded-full hover:bg-green-700 transition-colors"
@@ -24,7 +24,7 @@ const Footer: React.FC = () => {
                 <MessageSquare size={20} />
               </a>
               <a
-                href="https://instagram.com/nomeazienda"
+                href="https://www.instagram.com/future_.craft?igsh=c29rZnIzMnN1dzFp"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-gradient-to-r from-purple-500 to-pink-500 p-2 rounded-full hover:from-purple-600 hover:to-pink-600 transition-colors"
@@ -33,7 +33,7 @@ const Footer: React.FC = () => {
                 <Instagram size={20} />
               </a>
               <a
-                href="https://sitoagenzia.it"
+                href="http://www.futurecreaft.info"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-blue-600 p-2 rounded-full hover:bg-blue-700 transition-colors"
@@ -79,13 +79,10 @@ const Footer: React.FC = () => {
               <h3 className="text-lg font-semibold mb-4">Contatti</h3>
               <ul className="space-y-2">
                 <li className="text-gray-400">
-                  Email: info@nomeazienda.it
+                  Email: futurecraft.workspace@gmail.com
                 </li>
                 <li className="text-gray-400">
-                  Tel: +39 XXX XXX XXXX
-                </li>
-                <li className="text-gray-400">
-                  Indirizzo: Via Example, 123 - Roma
+                  Tel: +39 3791408773
                 </li>
               </ul>
             </div>
@@ -94,7 +91,7 @@ const Footer: React.FC = () => {
 
         <div className="border-t border-gray-800 pt-8">
           <p className="text-center text-gray-500">
-            &copy; {new Date().getFullYear()} NomeAzienda. Tutti i diritti riservati.
+            &copy; {new Date().getFullYear()} FutureCraft. Tutti i diritti riservati.
           </p>
         </div>
       </div>

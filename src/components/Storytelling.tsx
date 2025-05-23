@@ -33,10 +33,10 @@ const Storytelling: React.FC = () => {
               {/* Placeholder for Metaport Virtual Tour */}
               <div className="flex items-center justify-center h-full bg-gray-300 p-10 text-center">
                 <div>
-                  <h3 className="text-xl font-semibold mb-4 text-gray-700">Tour Virtuale Metaport</h3>
+                  <h3 className="text-xl font-semibold mb-4 text-gray-700">Tour Virtuale </h3>
                   <p className="text-gray-600 mb-6">Qui verrà incorporato il tour virtuale Metaport</p>
                   <div className="inline-block border-2 border-dashed border-gray-400 p-4 rounded-lg">
-                    <p className="text-sm text-gray-500">Incorpora qui il codice di integrazione Metaport</p>
+                    <p className="text-sm text-gray-500">Incorpora qui il codice di integrazione </p>
                   </div>
                 </div>
               </div>

@@ -48,7 +48,7 @@ const Header: React.FC = () => {
             Contatti
           </a>
           <a 
-            href="https://wa.me/+393XXXXXXXXX" 
+            href="https://wa.me/393791408773" 
             target="_blank" 
             rel="noopener noreferrer"
             className="bg-primary-600 text-white px-4 py-2 rounded-md hover:bg-primary-700 transition-colors"
@@ -89,7 +89,7 @@ const Header: React.FC = () => {
               Contatti
             </a>
             <a 
-              href="https://wa.me/+393XXXXXXXXX" 
+              href="https://wa.me/393791408773" 
               target="_blank" 
               rel="noopener noreferrer"
               className="bg-primary-600 text-white px-4 py-2 rounded-md hover:bg-primary-700 transition-colors text-center"
