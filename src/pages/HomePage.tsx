@@ -3,6 +3,7 @@ import Header from '../components/Header';
 import Hero from '../components/Hero';
 import Storytelling from '../components/Storytelling';
 import ChiSiamo from '../components/ChiSiamo';
+// import VirtualTourSection from '../components/VirtualTourSection';
 import QRSection from '../components/QRSection';
 import Footer from '../components/Footer';
 
@@ -14,6 +15,7 @@ const HomePage: React.FC = () => {
         <Hero />
         <Storytelling />
         <ChiSiamo />
+        {/* <VirtualTourSection /> */}
         <QRSection />
       </main>
       <Footer />

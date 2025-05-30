@@ -57,8 +57,8 @@ const PrivacyPage: React.FC = () => {
           <li>ottenere la cancellazione o rimozione dei propri Dati Personali.</li>
           <li>ricevere i propri Dati o farli trasferire ad altro titolare.</li>
           <li>proporre reclamo.</li>
-        </ul>
-
+            </ul>
+            
         <h2 className="text-2xl font-semibold text-gray-800 mt-8 mb-4">6. Modifiche a questa privacy policy</h2>
         <p className="text-gray-700 mb-4">
           Il Titolare del Trattamento si riserva il diritto di apportare modifiche alla presente privacy policy 
